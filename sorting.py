@@ -36,10 +36,12 @@ sort_tuple = sorted(mydict.items(), reverse=1, key=lambda item: item[1])
 
 count = 0
 res_list = [value + '\n' for value, key in sort_tuple]
-with open('/home/arkadiy/py/first_repo/text.txt', 'a') as f:
-    f.writelines(res_list)
-for k, v in sort_tuple:
-    print(count, v, k)
-    count += 1
+with open('/home/arkadiy/py/text.txt', 'w') as f:
+    for v, k in sort_tuple:
+        if k < 5: break
+        print(count, k, v)
+        count += 1
+        v = v + '\n'
+        f.writelines(v)
 
 print(res_list)
