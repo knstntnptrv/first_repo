@@ -1,622 +1,3 @@
-python
-with
-contextlib
-import
-from
-fobj
-это
-менеджер
-контекстный
-context
-line
-для
-что
-как
-def
-yield
-класс
-for
-something
-который
-данных
-contextmanager
-оператор
-менеджеры
-контекстные
-когда
-exitstack
-давайте
-нам
-файл
-его
-finally
-вам
-pass
-работы
-stream
-документации
-the
-создание
-чтобы
-которые
-если
-stdout
-создать
-можете
-пример
-нужно
-уроки
-file
-prompt
-webpage
-контекстных
-создает
-менеджеров
-else
-кода
-так
-менеджера
-traceback
-использовать
-подключение
-raise
-используя
-tkinter
-suppress
-того
-path
-контекстного
-closing
-здесь
-этот
-может
-позволяет
-shell
-recent
-call
-также
-try
-том
-программирования
-открываем
-функции
-быть
-инструмент
-функцию
-manager
-оператора
-или
-дважды
-базы
-метод
-оператором
-class
-есть
-которая
-создали
-после
-oserror
-экземпляр
-следующий
-несколько
-код
-технический
-базой
-работает
-write
-вместо
-stringio
-попробуем
-приводит
-является
-начинающих
-форум
-вот
-закроет
-django
-ключевое
-содержит
-ошибка
-разное
-generator
-нашем
-except
-наш
-cursor
-выходим
-была
-полезный
-directory
-сети
-целом
-игр
-filename
-декоратора
-return
-связь
-сделать
-чат
-университет
-внимание
-установка
-помощи
-импортируем
-языков
-новое
-urlopen
-объект
-блока
-происходит
-простой
-filenames
-реентрабельным
-such
-использования
-модуль
-pycairo
-появились
-had
-перенаправить
-создаем
-разработчику
-один
-ошибке
-методов
-будет
-молдовы
-названием
-автоматически
-stack
-применения
-мира
-делать
-можем
-она
-результат
-закрываем
-всего
-wxpython
-инструментов
-скачать
-sqlite
-декораторы
-часть
-закрывает
-сообщества
-данном
-работа
-conn
-например
-dataconn
-примерах
-только
-runtimeerror
-обратите
-проигнорировать
-большая
-под
-добавили
-файлу
-темами
-обрабатываем
-существует
-ранее
-исключений
-ознакомиться
-то
-книги
-теперь
-filenotfounderror
-слово
-записи
-возвращается
-делает
-буфер
-порядке
-данной
-был
-создавать
-применяли
-увидеть
-причина
-лучше
-закрытия
-много
-сравнение
-примеров
-продолжает
-путаницы
-анализ
-любой
-бесплатно
-суть
-закрыт
-none
-реентрабельный
-команды
-обратитесь
-множество
-еще
-переменного
-утилита
-насколько
-базу
-чатканал
-программирование
-благодаря
-api
-конструкции
-сайта
-вопросы
-киберпространстве
-стек
-защищенными
-любое
-избежание
-паблик
-потоком
-нужен
-управления
-многих
-rest
-администратором
-отдаем
-списка
-обоих
-собственных
-информации
-проделанной
-поддерживает
-являются
-асинхронное
-обработчик
-реальной
-обработка
-universitatea
-утилит
-подведем
-которому
-метода
-способный
-единомышленниками
-нами
-занимаемся
-человека
-очистки
-ним
-exiting
-практике
-комбинировать
-внутри
-перенаправили
-вписать
-разница
-создания
-эту
-позже
-функций
-задать
-хранится
-рассмотрим
-легко
-которой
-где
-каждый
-открываете
-несмотря
-golang
-перенаправления
-данного
-настройка
-подождите
-использованием
-тем
-создаваемых
-памяти
-непосредственно
-разрывать
-вызываются
-интерфейса
-соответственно
-форуме
-дипломной
-великое
-файлов
-похожий
-небольшая
-закрывая
-исключение
-вас
-одно
-перед
-удобные
-buldumacявляюсь
-работаем
-автоматических
-встроенных
-продажи
-telegram
-текстовый
-инструменты
-серию
-дополнительной
-пишут
-конечно
-видео
-итоги
-количества
-звучит
-него
-станьте
-контроль
-дружный
-этого
-выделили
-классический
-общение
-справку
-жизни
-перейти
-приведет
-возвращает
-берет
-диссертация
-вложенные
-лет
-времени
-замечательных
-завершению
-изображениями
-арсенала
-ситуации
-контенту
-скажем
-написана
-больших
-назад
-цели
-завернута
-tehnică
-подобии
-курсор
-позволяют
-закрытию
-друг
-эквивалент
-магистр
-исключению
-stderr
-колбеков
-открывает
-необходимо
-достаточно
-calling
-ботов
-такой
-создадим
-настраивать
-просто
-рекомендую
-нашей
-взглянем
-метких
-язык
-проще
-потребоваться
-эффективным
-количество
-поймете
-linux
-переписывать
-собственный
-закончит
-выполняется
-вызываемым
-возникает
-вступите
-выполняет
-оба
-образование
-криптовалюты
-единомышленников
-постоянно
-настоятельно
-общем
-сразу
-полезным
-канал
-используем
-streamwrite
-вызвать
-обернули
-выхода
-было
-образом
-ситуациях
-порталов
-примере
-путь
-вк
-фактически
-пытаемся
-тестах
-видим
-закрывающую
-url
-вывода
-частью
-запустить
-большим
-рассмотрена
-качестве
-определенного
-статей
-kotlin
-фотографии
-обратно
-позволит
-уловить
-данная
-полезной
-составе
-добавлен
-запутанно
-другое
-выручить
-сообществ
-замена
-тема
-большого
-взгляд
-подавлять
-учебники
-закрыть
-получить
-исполнению
-распространяется
-обратом
-кучу
-работе
-многое
-pygame
-данный
-файлом
-выявлена
-ide
-запустите
-эти
-открытия
-покупки
-closingfrom
-сработает
-запросить
-продвинутый
-новости
-изучения
-декорируем
-увидите
-нескольких
-другого
-небольшой
-второй
-вызывают
-потоках
-moldovei
-пользуюсь
-ответ
-следовать
-вами
-могла
-видеоуроки
-крайне
-запускался
-нашего
-социальной
-регистрируемых
-заметно
-нем
-открыли
-возникла
-графический
-yielding
-такими
-другие
-обучению
-таким
-напишите
-алгоритмы
-коду
-первый
-режиме
-ней
-двух
-передаем
-закрывается
-нашу
-следующее
-открыть
-модуля
-окончанию
-пожалуйста
-русскоязычную
-вызывать
-аудиторию
-пользовательского
-любого
-нейронные
-исключения
-изучаем
-этими
-pycharm
-этом
-магистерская
-открытый
-контакты
-друга
-поддержки
-выявление
-обязательно
-yieldingexiting
-связи
-раз
-сохраняется
-первая
-этой
-модулем
-вопрос
-полезных
-старомодным
-ошибку
-обработку
-части
-популяризацией
-функция
-языками
-текстовым
-ничего
-количеством
-файле
-реентерабельные
-время
-немного
-запускается
-страницу
-flask
-очень
-вроде
-потоков
-при
-идея
-волшебных
-вызываем
-запуск
-удобный
-автоматическом
-сложнее
-дескриптора
-способом
-путем
-pdf
-начните
-адаптирована
-ими
-интерфейс
-хакинг
-ряд
-могут
-подписаться
-русский
-библиотека
-такое
-самых
-помощью
-убедитесь
-операторе
-одноразового
-диалогов
-прописать
-коде
-своих
 the
 and
 file
@@ -1211,3 +592,450 @@ wide
 each
 produce
 evaluated
+
+186, the
+45, learning
+39, that
+35, machine
+35, and
+31, model
+28, one
+27, can
+19, for
+15, with
+15, data
+15, this
+12, each
+11, value
+11, which
+11, supervised
+11, could
+10, often
+9, classification
+9, real
+9, from
+9, are
+9, output
+8, its
+8, would
+8, into
+8, not
+7, regression
+7, attribute
+7, learn
+7, sample
+7, models
+7, estate
+7, unsupervised
+7, task
+7, iris
+7, photo
+7, might
+7, given
+6, between
+6, called
+6, our
+6, price
+6, then
+6, have
+5, set
+5, where
+5, what
+5, probability
+5, algorithm
+5, target
+5, whether
+5, function
+5, labeled
+5, you
+4, such
+4, only
+4, also
+4, gives
+4, shopping
+4, images
+4, them
+4, above
+4, cat
+4, samples
+4, few
+4, mapping
+4, call
+4, customer
+4, problem
+4, ground
+4, obtain
+4, within
+4, input
+4, case
+4, pixel
+4, there
+4, transform
+4, better
+4, without
+4, first
+4, based
+4, type
+4, more
+4, instead
+4, but
+3, know
+3, give
+3, while
+3, applying
+3, certain
+3, boolean
+3, has
+3, millions
+3, consider
+3, underlying
+3, tell
+3, predefined
+3, takes
+3, association
+3, expected
+3, attributes
+3, both
+3, like
+3, category
+3, tuple
+3, general
+3, values
+3, pixels
+3, than
+3, cluster
+3, contains
+3, predict
+3, binary
+2, apply
+2, since
+2, element
+2, shows
+2, convince
+2, groups
+2, all
+2, predicting
+2, relationship
+2, find
+2, range
+2, among
+2, represented
+2, stage
+2, around
+2, numeric
+2, results
+2, matrix
+2, class
+2, those
+2, ourselves
+2, many
+2, answer
+2, considered
+2, patterns
+2, define
+2, should
+2, computer
+2, application
+2, either
+2, multiple
+2, consists
+2, formulate
+2, here
+2, different
+2, behaviors
+2, surface
+2, scenario
+2, humans
+2, some
+2, train
+2, represent
+2, famous
+2, indicates
+2, human
+2, best
+2, sometimes
+2, thousands
+2, similarities
+2, examples
+2, indicating
+2, measurement
+2, large
+2, two
+2, seems
+2, single
+2, way
+2, characteristics
+2, further
+2, imagenet
+2, discover
+2, help
+2, following
+2, truth
+2, before
+2, although
+2, most
+2, program
+2, bought
+2, features
+2, right
+2, any
+2, even
+2, nature
+2, order
+2, continuous
+2, learned
+2, when
+2, width
+2, amount
+2, outputs
+2, process
+1, hidden
+1, contrary
+1, approximates
+1, vast
+1, who
+1, curate
+1, represents
+1, despite
+1, unlabeled
+1, impression
+1, involves
+1, accounts
+1, fewer
+1, think
+1, elements
+1, benchmark
+1, giving
+1, explore
+1, accuracy
+1, promote
+1, integer
+1, adapt
+1, mystifies
+1, traffic
+1, decision
+1, same
+1, object
+1, conversion
+1, solve
+1, due
+1, discrete
+1, discussion
+1, result
+1, reformulate
+1, tune
+1, targeting
+1, compare
+1, applies
+1, boundary
+1, programmed
+1, recognize
+1, grey
+1, these
+1, leads
+1, errors
+1, space
+1, determine
+1, feed
+1, colors
+1, research
+1, petal
+1, discovering
+1, vice
+1, diapers
+1, ability
+1, versicolor
+1, cart
+1, half
+1, label
+1, high
+1, difficult
+1, mind
+1, sales
+1, hope
+1, estimates
+1, basic
+1, normal
+1, grayscale
+1, directly
+1, does
+1, contain
+1, good
+1, underneath
+1, manually
+1, combining
+1, rules
+1, measurements
+1, merchandise
+1, intensity
+1, example
+1, achieve
+1, fit
+1, completing
+1, published
+1, goal
+1, bit
+1, workflow
+1, serves
+1, items
+1, campaigns
+1, name
+1, customers
+1, under
+1, cats
+1, supermarket
+1, exact
+1, years
+1, end
+1, strongly
+1, guide
+1, extend
+1, categorical
+1, deep
+1, handle
+1, narrow
+1, performs
+1, disadvantages
+1, nuance
+1, classic
+1, rather
+1, uncover
+1, team
+1, identify
+1, digital
+1, formulated
+1, visual
+1, wide
+1, associated
+1, just
+1, rigid
+1, devise
+1, nowadays
+1, use
+1, speaking
+1, likely
+1, generated
+1, located
+1, tells
+1, response
+1, clustered
+1, dimensional
+1, minority
+1, course
+1, historical
+1, controls
+1, actually
+1, still
+1, closer
+1, daunting
+1, always
+1, every
+1, previous
+1, logistic
+1, beyond
+1, height
+1, recognition
+1, manual
+1, robust
+1, site
+1, pose
+1, massive
+1, till
+1, fisher
+1, exploit
+1, number
+1, raw
+1, disappointed
+1, diaper
+1, approximation
+1, three
+1, now
+1, served
+1, second
+1, latent
+1, start
+1, strategy
+1, machines
+1, stanford
+1, accurately
+1, types
+1, outcome
+1, existence
+1, yet
+1, namely
+1, profiles
+1, easily
+1, expect
+1, nearby
+1, supervision
+1, dimensions
+1, concepts
+1, provides
+1, generates
+1, hard
+1, spent
+1, taxonomic
+1, new
+1, will
+1, distinguishes
+1, image
+1, claim
+1, length
+1, quickly
+1, capable
+1, must
+1, retain
+1, strong
+1, flower
+1, collect
+1, scope
+1, assume
+1, occasionally
+1, specific
+1, therefore
+1, composed
+1, introduce
+1, commercial
+1, questions
+1, instructions
+1, known
+1, unseen
+1, make
+1, beers
+1, expensive
+1, maps
+1, fixed
+1, about
+1, able
+1, time
+1, bear
+1, attract
+1, suggest
+1, advantages
+1, videos
+1, building
+1, teacher
+1, distinguish
+1, adaptation
+1, uncovers
+1, day
+1, derived
+1, forum
+1, after
+1, prohibitively
+1, feature
+1, fed
+1, show
+1, paper
+1, beer
+1, down
+1, domain
+1, serve
+1, looking
+1, group
+1, rearrange
+1, location
+1, mention
+1, fail
+1, soon
+1, having

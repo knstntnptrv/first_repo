@@ -19,7 +19,7 @@ for i in range(len(mylist)):
         mylist[i] = mylist[i][:-1]
     if mylist[i].isdigit(): mylist[i] = ''
 
-reslist =[]
+reslist = []
 for word in mylist:
     if word.isalpha(): reslist.append(word)
 mylist_clear = list(set(reslist))
