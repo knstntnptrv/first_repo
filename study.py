@@ -1,4 +1,4 @@
-with open('/home/arkadiy/py/first_repo/massive', 'r+') as mssv:
+with open('/home/arkadiy/py/first_repo/words_from_manual', 'r+') as mssv:
     temp_var = mssv.read()
 
 list_of_words = [word.lower().strip() for word in temp_var.split() if len(word) > 2]
@@ -15,7 +15,9 @@ for word in words_by_one:
 
 sorted_list = sorted(voc.items(), reverse = 1, key = lambda item: item[1])
 with open('/home/arkadiy/py/first_repo/text.txt', 'a') as massive:
+    count = 0
     for word, key in sorted_list:
+        count += 1
         one_line = f'{key}, {word}\n'
         massive.writelines(one_line)
-        print(key, word)
+        print(f'{count}) {key}, {word}\n')
